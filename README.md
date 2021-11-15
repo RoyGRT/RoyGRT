@@ -3,7 +3,8 @@
 - 🔭 I’m currently working in [Silk Software](https://www.silksoftware.com/) as an Software Engineer
 - 🌱 I’m currently learning API developement
 
-<a href="https://www.linkedin.com/in/ruotian-gao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/ruotian-gao/)
+- My Linkedin Profile:
+<a href="https://www.linkedin.com/in/ruotian-gao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"/>
               
 ![Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoyGRT)
 
